@@ -1,0 +1,27 @@
+{
+  "name": "BTC Trading Art #2025-09-02_1521",
+  "description": "3D generative art based on BTC trading data: Price $111,486.7, RSI 45.6, SMA $111,283.036. Created with Three.js and real-time market data.",
+  "image": "https://raw.githubusercontent.com/chipsforbeer/zora-art-storage/main/generated_art/btc_art_2025-09-02T15-21-05.png",
+  "attributes": [
+    {
+      "trait_type": "BTC Price",
+      "value": 111486.7
+    },
+    {
+      "trait_type": "RSI",
+      "value": 45.5935
+    },
+    {
+      "trait_type": "SMA",
+      "value": 111283.036
+    },
+    {
+      "trait_type": "Generation Time",
+      "value": "2025-09-02T15:21:10.932Z"
+    },
+    {
+      "trait_type": "Art Type",
+      "value": "3D Generative"
+    }
+  ]
+}
