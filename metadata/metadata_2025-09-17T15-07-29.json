@@ -1,0 +1,23 @@
+{
+  "name": "BTC Aura Sphere #2025-09-17_1507",
+  "description": "Generative Three.js art driven by BTC price and RSI. Price $115,573.45, RSI 44.4.",
+  "image": "https://raw.githubusercontent.com/chipsforbeer/zora-art-storage/main/generated_art/btc_art_2025-09-17T15-07-23.png",
+  "attributes": [
+    {
+      "trait_type": "BTC Price",
+      "value": 115573.45
+    },
+    {
+      "trait_type": "RSI",
+      "value": 44.4196
+    },
+    {
+      "trait_type": "Generation Time",
+      "value": "2025-09-17T15:07:23.749Z"
+    },
+    {
+      "trait_type": "Art Type",
+      "value": "3D Generative"
+    }
+  ]
+}
