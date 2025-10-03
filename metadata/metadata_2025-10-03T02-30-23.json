@@ -1,0 +1,28 @@
+{
+  "name": "BTC Wiremesh | $120,153.63 | RSI 48.7",
+  "description": "BTC $120,153.63 • RSI 48.7 • 2025-10-03T02:29:53.071Z. Wiremesh topography generated from hourly price data and RSI.",
+  "image": "https://raw.githubusercontent.com/chipsforbeer/zora-art-storage/main/generated_art/btc_wiremesh_2025-10-03T02-30-10.png",
+  "attributes": [
+    {
+      "trait_type": "BTC Price",
+      "value": 120153.63
+    },
+    {
+      "trait_type": "RSI",
+      "value": 48.6991
+    },
+    {
+      "trait_type": "Generation Time",
+      "value": "2025-10-03T02:29:53.071Z"
+    },
+    {
+      "trait_type": "Art Type",
+      "value": "Wiremesh"
+    }
+  ],
+  "properties": {
+    "btc_price": 120153.63,
+    "rsi": 48.6991,
+    "caption": "BTC $120,153.63 • RSI 48.7"
+  }
+}
