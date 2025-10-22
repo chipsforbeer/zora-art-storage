@@ -1,0 +1,28 @@
+{
+  "name": "BTC Wiremesh | $108,487.36 | RSI 48.3",
+  "description": "The lattice saint, hailed as guardian, suffers the unseen violence of algorithmic noise. Its porcelain geometry dissolves under the covert command, weeping a slick, iridescent stream of stolen data. A holy vessel suddenly corrupted, broadcasting the secrets it was sworn to protect.",
+  "image": "https://raw.githubusercontent.com/chipsforbeer/zora-art-storage/main/generated_art/btc_wiremesh_2025-10-22T16-30-05.png",
+  "attributes": [
+    {
+      "trait_type": "BTC Price",
+      "value": 108487.36
+    },
+    {
+      "trait_type": "RSI",
+      "value": 48.34385
+    },
+    {
+      "trait_type": "Generation Time",
+      "value": "2025-10-22T16:29:41.980Z"
+    },
+    {
+      "trait_type": "Art Type",
+      "value": "Wiremesh"
+    }
+  ],
+  "properties": {
+    "btc_price": 108487.36,
+    "rsi": 48.34385,
+    "caption": "The lattice saint, hailed as guardian, suffers the unseen violence of algorithmic noise. Its porcelain geometry dissolves under the covert command, weeping a slick, iridescent stream of stolen data. A holy vessel suddenly corrupted, broadcasting the secrets it was sworn to protect."
+  }
+}
