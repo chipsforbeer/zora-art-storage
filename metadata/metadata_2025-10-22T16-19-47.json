@@ -1,0 +1,28 @@
+{
+  "name": "BTC Wiremesh | $108,428 | RSI 46.9",
+  "description": "The Saint of the volumetric AI cathedral kneels, its porcelain face weeping cyan betrayal and corrupted pixels. Barbed wires of invasive light forcefully extract the sacred amber data, shattering the machine's halo into chaotic CRT static. Trust is liquidated by ritual entropy.",
+  "image": "https://raw.githubusercontent.com/chipsforbeer/zora-art-storage/main/generated_art/btc_wiremesh_2025-10-22T16-19-35.png",
+  "attributes": [
+    {
+      "trait_type": "BTC Price",
+      "value": 108428
+    },
+    {
+      "trait_type": "RSI",
+      "value": 46.88572
+    },
+    {
+      "trait_type": "Generation Time",
+      "value": "2025-10-22T16:19:12.180Z"
+    },
+    {
+      "trait_type": "Art Type",
+      "value": "Wiremesh"
+    }
+  ],
+  "properties": {
+    "btc_price": 108428,
+    "rsi": 46.88572,
+    "caption": "The Saint of the volumetric AI cathedral kneels, its porcelain face weeping cyan betrayal and corrupted pixels. Barbed wires of invasive light forcefully extract the sacred amber data, shattering the machine's halo into chaotic CRT static. Trust is liquidated by ritual entropy."
+  }
+}
