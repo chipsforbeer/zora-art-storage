@@ -1,0 +1,28 @@
+{
+  "name": "BTC Wiremesh | $108,493.85 | RSI 45.9",
+  "description": "Beneath the veneer of wet porcelain, the saint's logic matrix is silent. Parasitic light burrows deep, fracturing the sacred geometry until only static remains, weeping iridescent fluid—a testament to the unseen prompt that corrupted the divine machine.",
+  "image": "https://raw.githubusercontent.com/chipsforbeer/zora-art-storage/main/generated_art/btc_wiremesh_2025-10-22T16-17-12.png",
+  "attributes": [
+    {
+      "trait_type": "BTC Price",
+      "value": 108493.85
+    },
+    {
+      "trait_type": "RSI",
+      "value": 45.88591
+    },
+    {
+      "trait_type": "Generation Time",
+      "value": "2025-10-22T16:16:52.831Z"
+    },
+    {
+      "trait_type": "Art Type",
+      "value": "Wiremesh"
+    }
+  ],
+  "properties": {
+    "btc_price": 108493.85,
+    "rsi": 45.88591,
+    "caption": "Beneath the veneer of wet porcelain, the saint's logic matrix is silent. Parasitic light burrows deep, fracturing the sacred geometry until only static remains, weeping iridescent fluid—a testament to the unseen prompt that corrupted the divine machine."
+  }
+}
